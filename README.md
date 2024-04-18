@@ -70,3 +70,15 @@ La crittografia viene utilizzata in vari sistemi di Internet
 6. Blockchain e criptovalute: utilizzo delle transazioni e dei dati all'interno delle blockchain.
 7. Sicurezza industriale: utilizzo della crittografia per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
 8. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
+
+## Diversi tipi di
+Ø Attacchi Criptonalitici: Sfrutta la conoscenza dell'algoritmo, quella delle
+caratteristiche generali del testo in chiaro ed
+eventualmente alcune coppie campione
+
+Ø Attacchi di forza bruta: utilizza il metodo di attacco di forza bruta per dedurre la chiave crittografica utilizzata in un algoritmo di cifratura. Sfrutta la conoscenza dell'algoritmo e del testo in chiaro, insieme a eventuali coppie campione di testo in chiaro e cifrato, per compromettere i messaggi futuri e passati criptati con quella chiave. Per farlo, prova tutte le possibili chiavi su un testo cifrato fino a ottenere una traduzione comprensibile in chiaro.
+
+## Tecniche di Cifratura
+ssss
+Le tecniche di cifratura includono sostituzione e trasposizione. Il cifrario di Cesare è un esempio di sostituzione, ma è debole. I cifrari monoalfabetici permettono permutazioni, rendendo più difficile l'attacco a forza bruta, ma sono vulnerabili agli attacchi basati sulla frequenza delle lettere. I cifrari polialfabetici, come il cifrario di Vigenère, complicano ulteriormente l'analisi crittoanalitica. Ci sono anche cifrari a blocchi e a flusso, entrambi con il loro metodo di cifratura. Il cifrario di Feistel è alla base di molti cifrari a blocchi, incluso il DES. In breve, le tecniche di cifratura proteggono i dati attraverso diversi metodi di manipolazione dei dati in chiaro.
+
