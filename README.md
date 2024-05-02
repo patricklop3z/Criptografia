@@ -1,4 +1,5 @@
-author:Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed Your Name
+<!--
+author:Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed
 
 email:    your@mail.org
 
@@ -19,9 +20,9 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # Crittografia
 
+Lavoro di Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed
 
-
-
+Visualizza su [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/patricklop3z/Criptografia/main/README.md)
 
 ## Cos'è e a che cosa serve
 La crittografia è l'arte e la scienza della comunicazione sicura in presenza di terze parti ostili.
@@ -42,7 +43,9 @@ La crittografia è onnipresente
 
 Ci sono due principali chiavi:
 Ø A chiave simmetrica - Unica chiave
-Ø A doppia chiave - Due chiavi: una pubblica e una privata
+Ø A doppia chiave - Due chiavi: una pubblica e una privata 
+
+![images](https://images.app.goo.gl/yciEHMRrVYPCVmF28))
 
 ## I termini della crittografia
  Alcuni termini chiave:
@@ -71,7 +74,7 @@ La crittografia viene utilizzata in vari sistemi di Internet
 7. Sicurezza industriale: utilizzo della crittografia per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
 8. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
 
-## Diversi tipi di
+## Diversi tipi di attacchi
 Ø Attacchi Criptonalitici: Sfrutta la conoscenza dell'algoritmo, quella delle
 caratteristiche generali del testo in chiaro ed
 eventualmente alcune coppie campione
@@ -79,9 +82,10 @@ eventualmente alcune coppie campione
 Ø Attacchi di forza bruta: utilizza il metodo di attacco di forza bruta per dedurre la chiave crittografica utilizzata in un algoritmo di cifratura. Sfrutta la conoscenza dell'algoritmo e del testo in chiaro, insieme a eventuali coppie campione di testo in chiaro e cifrato, per compromettere i messaggi futuri e passati criptati con quella chiave. Per farlo, prova tutte le possibili chiavi su un testo cifrato fino a ottenere una traduzione comprensibile in chiaro.
 
 ## Tecniche di Cifratura
-sss
+
 Le tecniche di cifratura includono sostituzione e trasposizione. Il cifrario di Cesare è un esempio di sostituzione, ma è debole. I cifrari monoalfabetici permettono permutazioni, rendendo più difficile l'attacco a forza bruta, ma sono vulnerabili agli attacchi basati sulla frequenza delle lettere. I cifrari polialfabetici, come il cifrario di Vigenère, complicano ulteriormente l'analisi crittoanalitica. Ci sono anche cifrari a blocchi e a flusso, entrambi con il loro metodo di cifratura. Il cifrario di Feistel è alla base di molti cifrari a blocchi, incluso il DES. In breve, le tecniche di cifratura proteggono i dati attraverso diversi metodi di manipolazione dei dati in chiaro.
-## tre chiavi
+
+## Tre chiavi
 
 Ø Crittografia: si basa sulla codifica dei messaggi mediante
 appositi algoritmi di cifratura che lo rendono incomprensibile
