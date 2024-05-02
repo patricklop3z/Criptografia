@@ -67,9 +67,9 @@ La crittografia viene utilizzata in vari sistemi di Internet
 3. Sicurezza delle reti: crittografia per proteggere le reti informatiche da accessi non autorizzati e attacchi informatici.
 4. Sicurezza dei dispositivi: crittografia per proteggere i dati memorizzati su dispositivi come computer, smartphone e tablet.
 5. Sicurezza delle comunicazioni: crittografia per proteggere le comunicazioni tra dispositivi, come telefonate, messaggi di testo e email.
-6. Blockchain e criptovalute: utilizzo delle transazioni e dei dati all'interno delle blockchain.
+6. Blockchain e criptovalute: utilizzo delle transazioni e dei dati all'interno delle blockchain.
 7. Sicurezza industriale: utilizzo della crittografia per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
-8. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
+8. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
 
 ## Diversi tipi di
 Ø Attacchi Criptonalitici: Sfrutta la conoscenza dell'algoritmo, quella delle
@@ -95,9 +95,34 @@ segnalarne l’originalità o il proprietario.
 
 ##Quiz
 
--Che cose la chiave simmetrica?
-[[X]]
-[[ ]] 
-[[ ]]
+Quali sono le proprietà principali garantite dalla crittografia?
+[[ ]] Riservatezza, integrità dei dati, autenticazione e ripudio
+[[X]] Riservatezza, integrità dei dati, autenticazione e non ripudio
+[[ ]] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
+[[ ]] Riservatezza, integrità dei dati, autorizzazione e non ripudio
 
--
+Quali sono i due principali tipi di chiavi crittografiche?
+[[ ]] Chiave pubblica e chiave segreta
+[[X]] Chiave simmetrica e chiave asimmetrica
+[[ ]] Chiave primaria e chiave secondaria
+[[ ]] Chiave comune e chiave privata
+
+ Cosa fa un algoritmo di cifratura?
+[[X]] Trasforma un testo chiaro in un testo cifrato
+[[ ]] Trasforma un testo cifrato in un testo in chiaro
+[[ ]] Verifica l'integrità dei dati
+[[ ]] Genera una firma digitale
+
+Quali sono alcuni utilizzi comuni della crittografia?
+[[X]] Protezione dei dati sensibili, autenticazione degli utenti e protezione delle comunicazioni su Internet
+[[ ]] Protezione delle reti sociali, condivisione di foto e video online
+[[ ]] Analisi dei dati, elaborazione dei calcoli e stima delle previsioni
+[[ ]] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utenti
+
+Quali sono le tecniche di cifratura menzionate nel testo?
+[[ ]] Sostituzione e decodifica
+[[ ]] Trasposizione e confronto
+[[ ]] Analisi e interpretazione
+[[X]] Sostituzione e trasposizione
+
+
