@@ -60,6 +60,7 @@ plaintext.
 chiamata schema crittografico.
 
 ## Come viene utilizzata la crittografia
+
 La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni includono la sicurezza delle comunicazioni su Internet, la protezione dei dati sensibili, come le informazioni bancarie e personali, e la firma digitale per garantire l'autenticità dei documenti e delle transazioni online.
 
 ## In quali ambiti viene utilizzata
@@ -97,8 +98,7 @@ segretezza della comunicazione stessa.
 informazioni (spesso nascoste) in testi, immagini o video, per
 segnalarne l’originalità o il proprietario.
 
-##Quiz
-
+## Quiz
 Quali sono le proprietà principali garantite dalla crittografia?
 [[ ]] Riservatezza, integrità dei dati, autenticazione e ripudio
 [[X]] Riservatezza, integrità dei dati, autenticazione e non ripudio
