@@ -22,7 +22,9 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 Lavoro di Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed
 
-Visualizza su [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/patricklop3z/Criptografia/main/README.md)
+Visualizza su [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/patricklop3z/Criptografia/main/README.md#7)
+
+![Licenza](https://creativecommons.it/chapterIT/wp-content/uploads/2021/01/by-nc-nd.eu_.png)
 
 ## Cos'è e a che cosa serve
 La crittografia è l'arte e la scienza della comunicazione sicura in presenza di terze parti ostili.
@@ -60,7 +62,6 @@ plaintext.
 chiamata schema crittografico.
 
 ## Come viene utilizzata la crittografia
-
 La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni includono la sicurezza delle comunicazioni su Internet, la protezione dei dati sensibili, come le informazioni bancarie e personali, e la firma digitale per garantire l'autenticità dei documenti e delle transazioni online.
 
 ## In quali ambiti viene utilizzata
@@ -98,7 +99,8 @@ segretezza della comunicazione stessa.
 informazioni (spesso nascoste) in testi, immagini o video, per
 segnalarne l’originalità o il proprietario.
 
-## Quiz
+##Quiz
+
 Quali sono le proprietà principali garantite dalla crittografia?
 [[ ]] Riservatezza, integrità dei dati, autenticazione e ripudio
 [[X]] Riservatezza, integrità dei dati, autenticazione e non ripudio
