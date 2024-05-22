@@ -36,7 +36,8 @@ l'autenticazione e non ripudio.
 
 ## Vari tipi di Crittografie
 La crittografia è onnipresente. Alcuni esempi possono essere:
--Transazioni sicure su Internet
+
+- Transazioni sicure su Internet
 
 - WiFi criptato
 
@@ -59,24 +60,20 @@ Ci sono due principali chiavi Crittografiche:
 
 ## I termini della crittografia
  Alcuni termini chiave:
-- Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,
-comprensibile a un umano o a una macchina) in un testo
-cifrato (ciphertext, incomprensibile).
+ 
+- Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,comprensibile a un umano o a una macchina) in un testo cifrato (ciphertext, incomprensibile).
 
-- Algoritmo di decifratura: prende il ciphertext e ritorna il
-plaintext.
+- Algoritmo di decifratura: prende il ciphertext e ritorna il plaintext.
 
-- A ogni algoritmo di cifratura deve corrisponderne uno
-«inverso» di decifratura.
+- A ogni algoritmo di cifratura deve corrisponderne uno «inverso» di decifratura.
 
-- Un coppia di algoritmo di cifratura/decifratura viene anche
-chiamata schema crittografico.
+- Un coppia di algoritmo di cifratura/decifratura viene anche chiamata schema crittografico.
 
 ## Come viene utilizzata la crittografia
 La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni includono la sicurezza delle comunicazioni su Internet, la protezione dei dati sensibili, come le informazioni bancarie e personali, e la firma digitale per garantire l'autenticità dei documenti e delle transazioni online.
 
 ## In quali ambiti viene utilizzata
-La crittografia viene utilizzata in vari sistemi di Internet
+La crittografia viene utilizzata in vari sistemi di Internet:
 
 1. Pagamenti online: crittografia per garantire la sicurezza delle transazioni finanziarie e dei dati personali durante gli acquisti online.
 2. Sicurezza delle reti: crittografia per proteggere le reti informatiche da accessi non autorizzati e attacchi informatici.
@@ -87,9 +84,8 @@ La crittografia viene utilizzata in vari sistemi di Internet
 7. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
 
 ## Diversi tipi di attacchi
-- Attacchi Criptonalitici: sfruttano la conoscenza dell'algoritmo, quella delle
-caratteristiche generali del testo in chiaro ed
-eventualmente alcune coppie campione
+
+- Attacchi Criptonalitici: sfruttano la conoscenza dell'algoritmo, quella delle caratteristiche generali del testo in chiaro ed eventualmente alcune coppie campione
 
 - Attacchi di forza bruta: utilizzati per dedurre la chiave crittografica utilizzata in un algoritmo di cifratura. Sfrutta la conoscenza dell'algoritmo e del testo in chiaro, insieme a eventuali coppie campione di testo in chiaro e cifrato, per compromettere i messaggi futuri e passati criptati con quella chiave. Per farlo, prova tutte le possibili chiavi su un testo cifrato fino a ottenere una traduzione comprensibile in chiaro.
 
