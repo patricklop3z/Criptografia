@@ -45,8 +45,8 @@ La crittografia è onnipresente. Alcuni esempi possono essere:
 - Monete Elettroniche
 
 Ci sono due principali chiavi Crittografiche:
-- La chiave simmetrica - composta da una sola chiave
-- La  doppia chiave - composssta da due chiavi: una pubblica e una privata 
+- La chiave simmetrica è composta da una sola chiave privata
+- La chiave asimmetrica (o doppia chiave) è composta da due chiavi: una pubblica e una privata 
 
 ![images](https://images.app.goo.gl/yciEHMRrVYPCVmF28))
 
