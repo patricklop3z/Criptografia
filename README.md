@@ -52,6 +52,7 @@ La crittografia è onnipresente. Alcuni esempi possono essere:
 - Monete Elettroniche
 
 Ci sono due principali chiavi Crittografiche:
+
 - La chiave simmetrica è composta da una sola chiave privata
   
 - La chiave asimmetrica (o doppia chiave) è composta da due chiavi: una pubblica e una privata 
@@ -59,6 +60,7 @@ Ci sono due principali chiavi Crittografiche:
 ![images](https://images.app.goo.gl/yciEHMRrVYPCVmF28))
 
 ## I termini della crittografia
+
  Alcuni termini chiave:
  
 - Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,comprensibile a un umano o a una macchina) in un testo cifrato (ciphertext, incomprensibile).
@@ -70,9 +72,11 @@ Ci sono due principali chiavi Crittografiche:
 - Un coppia di algoritmo di cifratura/decifratura viene anche chiamata schema crittografico.
 
 ## Come viene utilizzata la crittografia
+
 La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni includono la sicurezza delle comunicazioni su Internet, la protezione dei dati sensibili, come le informazioni bancarie e personali, e la firma digitale per garantire l'autenticità dei documenti e delle transazioni online.
 
 ## In quali ambiti viene utilizzata
+
 La crittografia viene utilizzata in vari sistemi di Internet:
 
 1. Pagamenti online: crittografia per garantire la sicurezza delle transazioni finanziarie e dei dati personali durante gli acquisti online.
