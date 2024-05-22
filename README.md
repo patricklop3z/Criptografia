@@ -63,6 +63,7 @@ Ci sono due principali chiavi Crittografiche:
 
  Alcuni termini chiave:
  
+
 - Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,comprensibile a un umano o a una macchina) in un testo cifrato (ciphertext, incomprensibile).
 
 - Algoritmo di decifratura: prende il ciphertext e ritorna il plaintext.
