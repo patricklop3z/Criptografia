@@ -106,15 +106,11 @@ segnalarne l’originalità o il proprietario.
 - [ ] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
 - [ ] Riservatezza, integrità dei dati, autorizzazione e non ripudio
 
-??[Check]
-
 ?[Quali sono i due principali tipi di chiavi crittografiche?]
 - [ ] Chiave pubblica e chiave segreta
 - [x] Chiave simmetrica e chiave asimmetrica
 - [ ] Chiave primaria e chiave secondaria
 - [ ] Chiave comune e chiave privata
-
-??[Check]
 
 ?[Cosa fa un algoritmo di cifratura?]
 - [x] Trasforma un testo chiaro in un testo cifrato
@@ -122,20 +118,14 @@ segnalarne l’originalità o il proprietario.
 - [ ] Verifica l'integrità dei dati
 - [ ] Genera una firma digitale
 
-??[Check]
-
 ?[Quali sono alcuni utilizzi comuni della crittografia?]
 - [x] Protezione dei dati sensibili, autenticazione degli utenti e protezione delle comunicazioni su Internet
 - [ ] Protezione delle reti sociali, condivisione di foto e video online
 - [ ] Analisi dei dati, elaborazione dei calcoli e stima delle previsioni
 - [ ] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utenti
 
-??[Check]
-
 ?[Quali sono le tecniche di cifratura menzionate nel testo?]
 - [ ] Sostituzione e decodifica
 - [ ] Trasposizione e confronto
 - [ ] Analisi e interpretazione
 - [x] Sostituzione e trasposizione
-
-??[Check]
