@@ -38,17 +38,17 @@ l'autenticazione e non ripudio.
 La crittografia è onnipresente. Alcuni esempi possono essere:
 -Transazioni sicure su Internet
 
--WiFi criptato
+- WiFi criptato
 
--Cifratura del contenuto delle memorie secondarie
+- Cifratura del contenuto delle memorie secondarie
 
--Firma digitale
+- Firma digitale
 
--Aggiornamenti software
+- Aggiornamenti software
 
--Hashing delle password
+- Hashing delle password
 
--Monete Elettroniche
+- Monete Elettroniche
 
 Ci sono due principali chiavi Crittografiche:
 - La chiave simmetrica è composta da una sola chiave privata
@@ -99,15 +99,15 @@ Le tecniche di cifratura includono sostituzione e trasposizione. Il cifrario di 
 
 ## Diverse tecniche di protezione
 
--Crittografia: si basa sulla codifica dei messaggi mediante
+- Crittografia: si basa sulla codifica dei messaggi mediante
 appositi algoritmi di cifratura che lo rendono incomprensibile
 a chi non è a conoscenza dei relativi sistemi di decodifica.
 
--Steganografia: nasconde l’esistenza stessa del messaggio,
+- Steganografia: nasconde l’esistenza stessa del messaggio,
 includendolo in un mezzo “neutrale” e garantendo quindi la
 segretezza della comunicazione stessa.
 
--Watermarking: (filigranatura) inserisce opportune
+- Watermarking: (filigranatura) inserisce opportune
 informazioni (spesso nascoste) in testi, immagini o video, per
 segnalarne l’originalità o il proprietario.
 
