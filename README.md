@@ -140,11 +140,11 @@ Quali sono alcuni utilizzi comuni della crittografia?
 - [(x)] Protezione dei dati sensibili, autenticazione degli utenti e protezione delle comunicazioni su Internet
 - [( )] Protezione delle reti sociali, condivisione di foto e video online
 - [( )] Analisi dei dati, elaborazione dei calcoli e stima delle previsioni
-- [( )] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utenti
+- [( )] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utent
 
-Quali sono le tecniche di cifratura menzionate nel testo?
+Quale tecnica di cifratura è un esempio di sostituzione?
 
-- [( )] Sostituzione e decodifica
-- [( )] Trasposizione e confronto
-- [( )] Analisi e interpretazione 
-- [(x)] Sostituzione e trasposizione
+- [( )] Cifrario di Feistel
+- [( )] Trasposizione
+- [( )] Cifrario a blocchi
+- [(x)] Cifrario di Cesare
