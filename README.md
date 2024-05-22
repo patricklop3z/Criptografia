@@ -102,53 +102,33 @@ segnalarne l’originalità o il proprietario.
 ## Quiz
 
 Quali sono le proprietà principali garantite dalla crittografia?
-
-[( )] Riservatezza, integrità dei dati, autenticazione e ripudio
-
-[(X)] Riservatezza, integrità dei dati, autenticazione e non ripudio
-
-[( )] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
-
-[( )] Riservatezza, integrità dei dati, autorizzazione e non ripudio
-
+[ ] Riservatezza, integrità dei dati, autenticazione e ripudio
+[X] Riservatezza, integrità dei dati, autenticazione e non ripudio
+[ ] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
+[ ] Riservatezza, integrità dei dati, autorizzazione e non ripudio
 
 Quali sono i due principali tipi di chiavi crittografiche?
-
-[( )] Chiave pubblica e chiave segreta
-
-[(X)] Chiave simmetrica e chiave asimmetrica
-
-[( )] Chiave primaria e chiave secondaria
-
-[( )] Chiave comune e chiave privata
+[ ] Chiave pubblica e chiave segreta
+[X] Chiave simmetrica e chiave asimmetrica
+[ ] Chiave primaria e chiave secondaria
+[ ] Chiave comune e chiave privata
 
  Cosa fa un algoritmo di cifratura?
- 
-[(X)] Trasforma un testo chiaro in un testo cifrato
-
-[( )] Trasforma un testo cifrato in un testo in chiaro
-
-[( )] Verifica l'integrità dei dati
-
-[( )] Genera una firma digitale
+[X] Trasforma un testo chiaro in un testo cifrato
+[ ] Trasforma un testo cifrato in un testo in chiaro
+[ ] Verifica l'integrità dei dati
+[ ] Genera una firma digitale
 
 Quali sono alcuni utilizzi comuni della crittografia?
-
-[(X)] Protezione dei dati sensibili, autenticazione degli utenti e protezione delle comunicazioni su Internet
-
-[( )] Protezione delle reti sociali, condivisione di foto e video online
-
-[( )] Analisi dei dati, elaborazione dei calcoli e stima delle previsioni
-
-[( )] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utenti
+[X] Protezione dei dati sensibili, autenticazione degli utenti e protezione delle comunicazioni su Internet
+[ ] Protezione delle reti sociali, condivisione di foto e video online
+[ ] Analisi dei dati, elaborazione dei calcoli e stima delle previsioni 
+[ ] Raccolta di informazioni personali, monitoraggio delle attività online e tracciamento dei comportamenti degli utenti
 
 Quali sono le tecniche di cifratura menzionate nel testo?
-
-[( )] Sostituzione e decodifica
-
-[( )] Trasposizione e confronto
-
-[( )] Analisi e interpretazione
-[(X)] Sostituzione e trasposizione
+[ ] Sostituzione e decodifica
+[ ] Trasposizione e confronto
+[ ] Analisi e interpretazione
+[X] Sostituzione e trasposizione
 
 
