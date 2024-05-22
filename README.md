@@ -4,4 +4,4 @@
 
 - [ ] Roma
 - [ ] Totti
-- [ ] Er brasiliano
+- [x] Er brasiliano
