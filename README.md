@@ -99,7 +99,7 @@ segretezza della comunicazione stessa.
 informazioni (spesso nascoste) in testi, immagini o video, per
 segnalarne l’originalità o il proprietario.
 
-##Quiz
+## Quiz
 
 Quali sono le proprietà principali garantite dalla crittografia?
 [[ ]] Riservatezza, integrità dei dati, autenticazione e ripudio
