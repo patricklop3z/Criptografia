@@ -102,9 +102,9 @@ segnalarne l’originalità o il proprietario.
 ## Quiz
 
 Quali sono le proprietà principali garantite dalla crittografia?
-[ ] Riservatezza, integrità dei dati, autenticazione e ripudio
-[X] Riservatezza, integrità dei dati, autenticazione e non ripudio
-[ ] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
+- [ ] Riservatezza, integrità dei dati, autenticazione e ripudio
+- [X] Riservatezza, integrità dei dati, autenticazione e non ripudio  
+- [ ] Confidenzialità, integrità dei dati, autorizzazione e autenticazione
 [ ] Riservatezza, integrità dei dati, autorizzazione e non ripudio
 
 Quali sono i due principali tipi di chiavi crittografiche?
