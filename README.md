@@ -9,6 +9,15 @@ language: it
 
 narrator: IT Italian Male
 
+comment:  Try to write a short comment about
+          your course, multiline is also okay.
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
 # Crittografia
 
 Lavoro di Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed
