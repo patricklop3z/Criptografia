@@ -9,15 +9,6 @@ language: it
 
 narrator: IT Italian Male
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
-
-link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
-
-script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
--->
-
 # Crittografia
 
 Lavoro di Patrick Lopez Diaz, Leonardo Osmani, Ansari Ahmed
@@ -36,16 +27,23 @@ l'autenticazione e non ripudio.
 
 ## Vari tipi di Crittografie
 La crittografia è onnipresente. Alcuni esempi possono essere:
-- Transazioni sicure su Internet
-- WiFi criptato
-- Cifratura del contenuto delle memorie secondarie
-- Firma digitale
-- Aggiornamenti software
-- Hashing delle password
-- Monete Elettroniche
+-Transazioni sicure su Internet
+
+-WiFi criptato
+
+-Cifratura del contenuto delle memorie secondarie
+
+-Firma digitale
+
+-Aggiornamenti software
+
+-Hashing delle password
+
+-Monete Elettroniche
 
 Ci sono due principali chiavi Crittografiche:
 - La chiave simmetrica è composta da una sola chiave privata
+  
 - La chiave asimmetrica (o doppia chiave) è composta da due chiavi: una pubblica e una privata 
 
 ![images](https://images.app.goo.gl/yciEHMRrVYPCVmF28))
@@ -55,10 +53,13 @@ Ci sono due principali chiavi Crittografiche:
 - Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,
 comprensibile a un umano o a una macchina) in un testo
 cifrato (ciphertext, incomprensibile).
+
 - Algoritmo di decifratura: prende il ciphertext e ritorna il
 plaintext.
+
 - A ogni algoritmo di cifratura deve corrisponderne uno
 «inverso» di decifratura.
+
 - Un coppia di algoritmo di cifratura/decifratura viene anche
 chiamata schema crittografico.
 
@@ -89,13 +90,15 @@ Le tecniche di cifratura includono sostituzione e trasposizione. Il cifrario di 
 
 ## Diverse tecniche di protezione
 
-- Crittografia: si basa sulla codifica dei messaggi mediante
+-Crittografia: si basa sulla codifica dei messaggi mediante
 appositi algoritmi di cifratura che lo rendono incomprensibile
 a chi non è a conoscenza dei relativi sistemi di decodifica.
-- Steganografia: nasconde l’esistenza stessa del messaggio,
+
+-Steganografia: nasconde l’esistenza stessa del messaggio,
 includendolo in un mezzo “neutrale” e garantendo quindi la
 segretezza della comunicazione stessa.
-- Watermarking: (filigranatura) inserisce opportune
+
+-Watermarking: (filigranatura) inserisce opportune
 informazioni (spesso nascoste) in testi, immagini o video, per
 segnalarne l’originalità o il proprietario.
 
