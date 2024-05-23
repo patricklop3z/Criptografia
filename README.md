@@ -86,7 +86,7 @@ La crittografia viene utilizzata in vari sistemi di Internet:
 
 ## Diversi tipi di attacchi
 
-- Attacchi Criptonalitici: sfruttano la conoscenza dell'algoritmo, quella delle caratteristiche generali del testo in chiaro ed eventualmente alcune coppie campione
+- Attacchi Criptonalitici: sfruttano la conoscenza dell'algoritmo, quella delle caratteristiche generali del testo in chiaro ed eventualmente alcune coppie campione 
 
 - Attacchi di forza bruta: utilizzati per dedurre la chiave crittografica utilizzata in un algoritmo di cifratura. Sfrutta la conoscenza dell'algoritmo e del testo in chiaro, insieme a eventuali coppie campione di testo in chiaro e cifrato, per compromettere i messaggi futuri e passati criptati con quella chiave. Per farlo, prova tutte le possibili chiavi su un testo cifrato fino a ottenere una traduzione comprensibile in chiaro.
 
