@@ -101,17 +101,11 @@ Le tecniche di cifratura includono sostituzione e trasposizione. Il cifrario di 
 
 ## Diverse tecniche di protezione
 
-- Crittografia: si basa sulla codifica dei messaggi mediante
-appositi algoritmi di cifratura che lo rendono incomprensibile
-a chi non è a conoscenza dei relativi sistemi di decodifica.
+- Crittografia: si basa sulla codifica dei messaggi mediante appositi algoritmi di cifratura che lo rendono incomprensibile a chi non è a conoscenza dei relativi sistemi di decodifica.
 
-- Steganografia: nasconde l’esistenza stessa del messaggio,
-includendolo in un mezzo “neutrale” e garantendo quindi la
-segretezza della comunicazione stessa.
+- Steganografia: nasconde l’esistenza stessa del messaggio, includendolo in un mezzo “neutrale” e garantendo quindi la segretezza della comunicazione stessa.
 
-- Watermarking: (filigranatura) inserisce opportune
-informazioni (spesso nascoste) in testi, immagini o video, per
-segnalarne l’originalità o il proprietario.
+- Watermarking: (filigranatura) inserisce opportune informazioni (spesso nascoste) in testi, immagini o video, per segnalarne l’originalità o il proprietario.
 
 ## Quiz sulla crittografia
 
