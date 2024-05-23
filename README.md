@@ -66,11 +66,11 @@ Ci sono due principali chiavi Crittografiche:
 
 - Algoritmo di cifratura: trasforma un testo in chiaro (plaintext,comprensibile a un umano o a una macchina) in un testo cifrato (ciphertext, incomprensibile).
 
-- Algoritmo di decifratura: prende il ciphertext e ritorna il plaintext.
+- Algoritmo di decifratura: prende il ciphertext e lo transforma in plaintext.
 
 - A ogni algoritmo di cifratura deve corrisponderne uno «inverso» di decifratura.
 
-- Un coppia di algoritmo di cifratura/decifratura viene anche chiamata schema crittografico.
+- Una coppia di algoritmi di cifratura/decifratura viene anche chiamata schema crittografico.
 
 ## Come viene utilizzata la crittografia
 
