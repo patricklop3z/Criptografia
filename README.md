@@ -86,8 +86,7 @@ La crittografia viene utilizzata in vari sistemi di Internet:
 4. Sicurezza delle comunicazioni: per proteggere le comunicazioni tra dispositivi, come telefonate, messaggi di testo e email.
 5. Blockchain e criptovalute: utilizzo delle transazioni e dei dati all'interno delle blockchain.
 6. Sicurezza industriale:per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
-7. Sicurezza militare e governativa:
-per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
+7. Sicurezza militare e governativa: per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
 
 ## Diversi tipi di attacchi
 
