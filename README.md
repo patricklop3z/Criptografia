@@ -80,13 +80,14 @@ La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni i
 
 La crittografia viene utilizzata in vari sistemi di Internet:
 
-1. Pagamenti online: crittografia per garantire la sicurezza delle transazioni finanziarie e dei dati personali durante gli acquisti online.
-2. Sicurezza delle reti: crittografia per proteggere le reti informatiche da accessi non autorizzati e attacchi informatici.
-3. Sicurezza dei dispositivi: crittografia per proteggere i dati memorizzati su dispositivi come computer, smartphone e tablet.
-4. Sicurezza delle comunicazioni: crittografia per proteggere le comunicazioni tra dispositivi, come telefonate, messaggi di testo e email.
+1. Pagamenti online: per garantire la sicurezza delle transazioni finanziarie e dei dati personali durante gli acquisti online.
+2. Sicurezza delle reti: per proteggere le reti informatiche da accessi non autorizzati e attacchi informatici.
+3. Sicurezza dei dispositivi:per proteggere i dati memorizzati su dispositivi come computer, smartphone e tablet.
+4. Sicurezza delle comunicazioni: per proteggere le comunicazioni tra dispositivi, come telefonate, messaggi di testo e email.
 5. Blockchain e criptovalute: utilizzo delle transazioni e dei dati all'interno delle blockchain.
-6. Sicurezza industriale: utilizzo della crittografia per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
-7. Sicurezza militare e governativa: utilizzo della crittografia per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
+6. Sicurezza industriale:per proteggere i sistemi di controllo industriale e i dati sensibili nelle infrastrutture critiche.
+7. Sicurezza militare e governativa:
+per proteggere le comunicazioni e i dati sensibili utilizzati dalle forze armate e dalle agenzie governative.
 
 ## Diversi tipi di attacchi
 
