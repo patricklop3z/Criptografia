@@ -72,10 +72,6 @@ Ci sono due principali chiavi Crittografiche:
 
 - Una coppia di algoritmi di cifratura/decifratura viene anche chiamata schema crittografico.
 
-## Come viene utilizzata la crittografia
-
-La crittografia viene utilizzata in molti modi diversi. Alcuni utilizzi comuni includono la sicurezza delle comunicazioni su Internet, la protezione dei dati sensibili, come le informazioni bancarie e personali, e la firma digitale per garantire l'autenticità dei documenti e delle transazioni online.
-
 ## In quali ambiti viene utilizzata
 
 La crittografia viene utilizzata in vari sistemi di Internet:
